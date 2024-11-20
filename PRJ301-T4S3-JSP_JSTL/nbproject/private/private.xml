@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/product/Product.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/product/OrderDetail.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/web/login.html</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/controllers/ActivateController.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/controllers/LoginController.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/product/Cart.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/user/UserDTO.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/product/OrderDAO.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/controllers/ShoppingController.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/controllers/UpdateController.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/controllers/CheckoutController.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/filter/AuthenFilter.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/utils/DBUtils.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/product/Order.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/controllers/AddProductController.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/controllers/MainController.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/controllers/DeleteController.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/controllers/SearchController.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/controllers/CreateController.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/controllers/AddController.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/user/UserDAO.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/product/ProductDAO.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/Code/PRJ301/PRJ301-T4S3-JSP_JSTL_2/src/java/sample/controllers/RemoveController.java</file>
+        </group>
+    </open-files>
+</project-private>
